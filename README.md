@@ -670,11 +670,11 @@ hexdump -C uploaded_file.jpg | head
 **Note**: Always ensure you have proper authorization before conducting security testing. Unauthorized testing is illegal and unethical.
 
 **Contribution**:
-If you want to contribute to my code, please specify exactly what you added to the code and why, and make sure you perform multiple tests before submitting the merge request.
+If you want to contribute to my Repository, please specify exactly what you added to the code and why, and make sure you perform multiple tests before submitting the merge request.
 
-© 2025 Emad YaY. All Rights Reserved.
+© 2025 Arganex-Emad. All Rights Reserved.
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/EmadYaY/File_Upload_checklist/blob/main/LICENSE).
 You are free to use, modify, and distribute this project,
 provided that the original license terms are respected.
 
